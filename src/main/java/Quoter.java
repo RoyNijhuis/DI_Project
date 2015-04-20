@@ -7,7 +7,7 @@ public class Quoter {
             case "1":
                 return 10;
             case "2":
-                return 45;
+                return 25;
             case "3":
                 return 20;
             case "4":
